@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_2.6\Date.cpp(237,21): warning C4101: 'year': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_2.6\Date.cpp(237,14): warning C4101: 'month': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_2.6\Date.cpp(237,9): warning C4101: 'day': unreferenced local variable
+  laboration_2.6.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_2.6\x64\Debug\laboration_2.6.exe
